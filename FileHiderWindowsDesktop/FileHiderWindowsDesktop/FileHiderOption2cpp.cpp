@@ -1,6 +1,7 @@
 #include "FileHider.h"
+#include "stdafx.h"
 
-NTSTATUS WINAPI NewNtQueryDirectoryFile(HANDLE FileHandle,
+NTSTATUS WINAPI TrueNtQueryDirectoryFile(HANDLE FileHandle,
 	HANDLE Event,
 	PIO_APC_ROUTINE ApcRoutine,
 	PVOID ApcContext,
@@ -12,7 +13,10 @@ NTSTATUS WINAPI NewNtQueryDirectoryFile(HANDLE FileHandle,
 	PUNICODE_STRING FileName,
 	BOOLEAN RestartScan
 ) {
-
+	wchar_t * nameProcess = "bla";
+	wchar_t * diskName = "bla";
+	wchar_t ** folderName = "bla";
+	int STATUS_NO_SUCH_FILE = 1;
 	char infobuf[4096];
 	ULONG ResultLength = 0;
 	NtQueryObject(FileHandle, ObjectNameInformation, infobuf, sizeof(infobuf), &ResultLength);

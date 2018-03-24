@@ -1,1 +1,224 @@
-﻿
+﻿  FileHiderOption1.cpp
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(54): error C2065: 'PFILE_DIRECTORY_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(54): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(57): error C2065: 'PFILE_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(57): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(60): error C2065: 'PFILE_ID_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(60): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(63): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(63): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(66): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(66): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(69): error C2065: 'PFILE_NAMES_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(69): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(80): error C2065: 'PFILE_DIRECTORY_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(80): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(83): error C2065: 'PFILE_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(83): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(86): error C2065: 'PFILE_ID_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(86): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(89): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(89): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(92): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(92): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(95): error C2065: 'PFILE_NAMES_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(95): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(106): error C2065: 'PFILE_DIRECTORY_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(106): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(109): error C2065: 'PFILE_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(109): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(112): error C2065: 'PFILE_ID_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(112): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(115): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(115): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(118): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(118): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(121): error C2065: 'PFILE_NAMES_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(121): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(133): error C2065: 'PFILE_DIRECTORY_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(133): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(136): error C2065: 'PFILE_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(136): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(139): error C2065: 'PFILE_ID_FULL_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(139): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(142): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(142): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(145): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(145): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(148): error C2065: 'PFILE_NAMES_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(148): error C2146: syntax error: missing ')' before identifier 'FileInformationBuffer'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(156): error C3861: 'StrStrIA': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(167): error C2143: syntax error: missing ';' before '__stdcall'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(167): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(167): error C2061: syntax error: identifier 'PIO_APC_ROUTINE'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(170): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(172): error C2146: syntax error: missing ';' before identifier 'rc'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(172): error C2065: 'rc': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(173): error C2440: 'initializing': cannot convert from 'const char [30]' to 'char *'
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(173): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(176): error C2065: 'rc': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(176): error C2065: 'IoApcRoutine': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(176): error C2065: 'IoApcContext': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(176): error C2065: 'pIoStatusBlock': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(177): error C2065: 'FileInformationBuffer': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(177): error C2065: 'FileInformationBufferLength': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(177): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(177): error C2065: 'bReturnOnlyOneEntry': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(178): error C2065: 'PathMask': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(178): error C2065: 'bRestartQuery': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(176): error C3861: 'Real_NtQueryDirectoryFile': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(180): error C2065: 'rc': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(180): error C3861: 'NT_SUCCESS': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(180): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(181): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(182): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(185): error C2065: 'FileInformationBuffer': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(188): error C2065: 'UNICODE_STRING': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(188): error C2146: syntax error: missing ';' before identifier 'usName'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(188): error C2065: 'usName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(189): error C2065: 'ANSI_STRING': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(189): error C2146: syntax error: missing ';' before identifier 'asName'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(189): error C2065: 'asName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(191): error C2065: 'bReturnOnlyOneEntry': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(193): error C2065: 'usName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(193): error C2228: left of '.Buffer' must have class/struct/union
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(193): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(193): error C2065: 'FileInformationBuffer': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(193): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(194): error C2065: 'usName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(194): error C2228: left of '.Length' must have class/struct/union
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(194): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(194): error C2065: 'FileInformationBuffer': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(194): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(195): error C2065: 'asName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(195): error C2065: 'usName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(195): error C3861: 'RtlUnicodeStringToAnsiString': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(196): error C2065: 'asName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(196): error C2228: left of '.Buffer' must have class/struct/union
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(196): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(196): error C2660: 'config_CheckString': function does not take 1 arguments
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(197): error C2065: 'asName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(197): error C3861: 'RtlFreeAnsiString': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(201): error C2065: 'rc': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(201): error C2065: 'IoApcRoutine': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(201): error C2065: 'IoApcContext': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(201): error C2065: 'pIoStatusBlock': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(202): error C2065: 'FileInformationBuffer': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(202): error C2065: 'FileInformationBufferLength': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(202): error C2065: 'FileInfoClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption1.cpp(202): fatal error C1003: error count exceeds 100; stopping compilation
+  FileHiderOption2cpp.cpp
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(4): error C2143: syntax error: missing ';' before '__stdcall'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(6): error C2061: syntax error: identifier 'PIO_APC_ROUTINE'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(16): error C2440: 'initializing': cannot convert from 'const char [4]' to 'wchar_t *'
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(16): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(17): error C2440: 'initializing': cannot convert from 'const char [4]' to 'wchar_t *'
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(17): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(18): error C2440: 'initializing': cannot convert from 'const char [4]' to 'wchar_t **'
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(18): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(22): error C2065: 'ObjectNameInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(22): error C3861: 'NtQueryObject': identifier not found
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(23): error C2065: 'OBJECT_NAME_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(23): error C2065: 'pinfo': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(23): error C2059: syntax error: ')'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(24): error C2065: 'pinfo': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(24): error C2227: left of '->NameBuffer' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(24): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(25): error C2065: 'pinfo': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(25): error C2227: left of '->Name' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(25): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(25): error C2228: left of '.Length' must have class/struct/union
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2146: syntax error: missing ';' before identifier 'result'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'result': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'ApcRoutine': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'ApcContext': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'IoStatusBlock': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'FileInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(26): error C2065: 'Length': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(27): error C2065: 'FileInformationClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(27): error C2065: 'ReturnSingleEntry': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(27): error C2065: 'FileName': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(27): error C2065: 'RestartScan': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(28): error C2065: 'FileInformationClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(28): error C2065: 'FileBothDirectoryInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(28): error C2065: 'FileIdBothDirectoryInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(28): error C2065: 'result': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(28): error C2065: 'STATUS_SUCCESS': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(30): error C2065: 'FileInformationClass': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(30): error C2065: 'FileBothDirectoryInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2146: syntax error: missing ';' before identifier 'Prev'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2146: syntax error: missing ';' before identifier 'FileInformation'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(31): error C2065: 'FileInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(33): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(33): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(33): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(34): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(34): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(35): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(35): error C2065: 'PFILE_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(35): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(35): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(37): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(37): error C2227: left of '->FileName' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(37): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(40): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(40): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(40): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(41): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(41): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(41): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(42): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(42): error C2227: left of '->FileIndex' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(42): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(42): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(46): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(46): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(46): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(46): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(47): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(47): error C2227: left of '->FileIndex' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(47): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(47): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2146: syntax error: missing ';' before identifier 'Prev'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2146: syntax error: missing ';' before identifier 'FileInformation'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(55): error C2065: 'FileInformation': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(57): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(57): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(57): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(58): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(58): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(59): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(59): error C2065: 'PFILE_ID_BOTH_DIR_INFORMATION': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(59): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(59): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(61): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(61): error C2227: left of '->FileName' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(61): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(64): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(64): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(64): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(65): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(65): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(65): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(66): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(66): error C2227: left of '->FileIndex' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(66): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(66): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(70): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(70): error C2227: left of '->NextEntryOffset' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(70): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(70): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(71): error C2065: 'Prev': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(71): error C2227: left of '->FileIndex' must point to class/struct/union/generic type
+  c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(71): note: type is 'unknown-type'
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(71): error C2065: 'info': undeclared identifier
+c:\git\filehider\filehiderwindowsdesktop\filehiderwindowsdesktop\filehideroption2cpp.cpp(82): error C2065: 'result': undeclared identifier
+  Generating Code...
